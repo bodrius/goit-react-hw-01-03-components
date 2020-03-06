@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-01-03-components/static/css/main.564e0064.chunk.css",
-    "main.js": "/goit-react-hw-01-03-components/static/js/main.cd37df07.chunk.js",
-    "main.js.map": "/goit-react-hw-01-03-components/static/js/main.cd37df07.chunk.js.map",
-    "runtime-main.js": "/goit-react-hw-01-03-components/static/js/runtime-main.a9698728.js",
-    "runtime-main.js.map": "/goit-react-hw-01-03-components/static/js/runtime-main.a9698728.js.map",
-    "static/js/2.fc6166db.chunk.js": "/goit-react-hw-01-03-components/static/js/2.fc6166db.chunk.js",
-    "static/js/2.fc6166db.chunk.js.map": "/goit-react-hw-01-03-components/static/js/2.fc6166db.chunk.js.map",
-    "index.html": "/goit-react-hw-01-03-components/index.html",
-    "precache-manifest.e93e69a670598cfea010852a4aaaa8a5.js": "/goit-react-hw-01-03-components/precache-manifest.e93e69a670598cfea010852a4aaaa8a5.js",
-    "service-worker.js": "/goit-react-hw-01-03-components/service-worker.js",
-    "static/css/main.564e0064.chunk.css.map": "/goit-react-hw-01-03-components/static/css/main.564e0064.chunk.css.map",
-    "static/js/2.fc6166db.chunk.js.LICENSE.txt": "/goit-react-hw-01-03-components/static/js/2.fc6166db.chunk.js.LICENSE.txt"
+    "main.css": "/goit-react-hw-01-03-components-listFriends/static/css/main.564e0064.chunk.css",
+    "main.js": "/goit-react-hw-01-03-components-listFriends/static/js/main.cd37df07.chunk.js",
+    "main.js.map": "/goit-react-hw-01-03-components-listFriends/static/js/main.cd37df07.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-01-03-components-listFriends/static/js/runtime-main.d6272ab7.js",
+    "runtime-main.js.map": "/goit-react-hw-01-03-components-listFriends/static/js/runtime-main.d6272ab7.js.map",
+    "static/js/2.9ccecf83.chunk.js": "/goit-react-hw-01-03-components-listFriends/static/js/2.9ccecf83.chunk.js",
+    "static/js/2.9ccecf83.chunk.js.map": "/goit-react-hw-01-03-components-listFriends/static/js/2.9ccecf83.chunk.js.map",
+    "index.html": "/goit-react-hw-01-03-components-listFriends/index.html",
+    "precache-manifest.fad3bb00e42e952fd37dea7bf8824f08.js": "/goit-react-hw-01-03-components-listFriends/precache-manifest.fad3bb00e42e952fd37dea7bf8824f08.js",
+    "service-worker.js": "/goit-react-hw-01-03-components-listFriends/service-worker.js",
+    "static/css/main.564e0064.chunk.css.map": "/goit-react-hw-01-03-components-listFriends/static/css/main.564e0064.chunk.css.map",
+    "static/js/2.9ccecf83.chunk.js.LICENSE.txt": "/goit-react-hw-01-03-components-listFriends/static/js/2.9ccecf83.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9698728.js",
-    "static/js/2.fc6166db.chunk.js",
+    "static/js/runtime-main.d6272ab7.js",
+    "static/js/2.9ccecf83.chunk.js",
     "static/css/main.564e0064.chunk.css",
     "static/js/main.cd37df07.chunk.js"
   ]
